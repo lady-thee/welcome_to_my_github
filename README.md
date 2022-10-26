@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @web-weebie
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning JavaScript, Python, Django Framework
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 You to reach me via WhatsApp with +2349076149314 or via Twitter with @theola_onuh
 - Welcome!
