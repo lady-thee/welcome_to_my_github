@@ -1,6 +1,6 @@
 
 ## Introduction
-👋 Hi, I’m @web-weebie, a young zodiac goddess itching to become a master at programming. I am a brown girl, with brown eyes and brown eyes. 
+👋 Hi, I’m @lady-thee, a young zodiac goddess itching to become a master at programming. I am a brown girl, with brown eyes and brown eyes. 
 I wear glasses to see my laptop and I love them. I love to read, watch TikTok videos in my spare time. I also love being Sherlock and figuring out why stuff works the way it does. 
 
 ## What I'm Interested In 👀
