@@ -7,7 +7,8 @@ I wear glasses to see my laptop and I love them. I love to read, watch TikTok vi
 I am interested in becoming a Software engineer. It's a hectic road but I'm up for the challenge. 
 
 ## My Current Stack 🌱
-Currently, I am mastering the secrets of Django, the web framework of Python. 
+Currently, I am mastering the secrets of Django, the web framework of Python.
+Edit: I have added JavaScript NodeJs/Express JS and Nest Js to my armoury 
 
 ## 💞️ Can I collaborate? 
 Why, yes! Of course, I wanna work with you, I can only grow to be a goddess of programming if I work with people to build more interesting objects. I hope we get to work together! 💞️💞️
